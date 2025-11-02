@@ -9,7 +9,7 @@ intents.message_content = True
 client = discord.Client(intents=intents)
 
 # Replace with your actual bot token
-BOT_TOKEN = "MTQzNDMzMjA0Njc3NTI5MjA0OQ.Gfe9Al.ggI2xiQ1FsDtuiKKIFSigg1jP10Ro1wj7VR1qA"
+BOT_TOKEN = "MTQzNDMzMjA0Njc3NTI5MjA0OQ.GY5I9-.8z4I7sdsQqQlX6LF0ZngYyU-Wndj42xxmaKhfw"
 
 # Replace with your actual Discord user ID
 YOUR_USER_ID = 670334804998357013
