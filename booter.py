@@ -1,4 +1,4 @@
 import os
 import time
-time.sleep(1200)
+time.sleep(40)
 os.system("shutdown /s /t 0")
